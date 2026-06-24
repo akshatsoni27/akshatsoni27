@@ -1,24 +1,108 @@
-# 💫 About Me:
-👋 Hi there! I'm Akshat Soni, a passionate college student pursuing a B.Tech in IT. <br>I'm always eager to learn and explore new technologies, and I'm currently diving into the world of software development, computer architecture, and database management systems. <br>I love collaborating on projects that challenge me to grow and improve my coding skills. <br><br>Let's connect and build something amazing together!<br><br>
+# Hi 👋, I'm Akshat Soni
 
+### 🚀 B.Tech IT Student | Machine Learning Enthusiast | Agentic AI Developer | Web Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__akshatsoni__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-soni-7bb970259/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22852842) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@akshatsoni3333) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshatsoni27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshatsoni27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshatsoni27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Passionate about building intelligent applications using AI, Machine Learning, and modern web technologies. I enjoy creating real-world projects that combine software engineering, automation, and data-driven decision making.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshatsoni27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Currently Learning
+
+* Machine Learning
+* Agentic AI Systems
+* LangChain & LangGraph
+* System Design
+* Data Structures & Algorithms
+* CI/CD & DevOps
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* C++
+* SQL
+
+### AI & ML
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+* Agno
+* LangChain
+* LangGraph
+* Groq API
+
+### Web Development
+
+* React.js
+* Vite
+* Tailwind CSS
+* Node.js
+* Express.js
+* MongoDB
+
+### Tools
+
+* Git & GitHub
+* Postman
+* VS Code
+* Netlify
+* Vercel
+
+---
+
+## 🚀 Featured Projects
+
+### 💹 AI Financial Research Agent
+
+Agentic AI application built using Agno, Groq, and Yahoo Finance for real-time stock analysis and financial insights.
+
+### 💳 Credit Card Fraud Detection System
+
+Machine Learning project using classification algorithms to identify fraudulent transactions.
+
+### 🎉 Techotsav Website
+
+Developed and maintained the official website for a national-level technical festival.
+
+### 🎬 Netflix Clone
+
+Responsive Netflix-inspired frontend built using React and modern UI practices.
+
+---
+
+## 📈 Current Goals
+
+* Master Machine Learning
+* Build Production-Ready AI Agents
+* Solve 500+ DSA Problems
+* Learn System Design
+* Contribute to Open Source
+* Secure an AI/ML Internship
+
+---
+
+## 🏆 Leadership & Activities
+
+* Chair, IEEE Computational Intelligence Society (IEEE CIS)
+* Organized technical workshops and events
+* Active participant in hackathons and AI communities
+
+---
+
+## 🌐 Connect With Me
+
+* Portfolio: https://akshatsonifolio.netlify.app
+* LinkedIn: [www.linkedin.com/in/akshat-soni-7658b9255](http://www.linkedin.com/in/akshat-soni-7658b9255)
+* Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+### ⚡ Fun Fact
+
+I love turning ideas into real-world AI applications and continuously exploring the future of intelligent systems.
