@@ -98,8 +98,8 @@ Responsive Netflix-inspired frontend built using React and modern UI practices.
 ## 🌐 Connect With Me
 
 * Portfolio: https://akshatsonifolio.netlify.app
-* LinkedIn: [www.linkedin.com/in/akshat-soni-7658b9255](http://www.linkedin.com/in/akshat-soni-7658b9255](https://www.linkedin.com/in/akshat-soni-/)
-* Email: [your-email@example.com](mailto:akshatsoni0427@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/akshat-soni-/*
+*  Email: [your-email@example.com](mailto:akshatsoni0427@gmail.com)
 
 ---
 
