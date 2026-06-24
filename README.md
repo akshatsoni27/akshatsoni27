@@ -106,3 +106,9 @@ Responsive Netflix-inspired frontend built using React and modern UI practices.
 ### ⚡ Fun Fact
 
 I love turning ideas into real-world AI applications and continuously exploring the future of intelligent systems.
+
+![Profile Views](https://komarev.com/ghpvc/?username=akshatsoni27&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/akshatsoni27?label=Followers&style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/akshatsoni27?affiliations=OWNER&style=social)
