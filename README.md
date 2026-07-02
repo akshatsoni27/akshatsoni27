@@ -1,114 +1,300 @@
+<div align="center">
+
 # Hi 👋, I'm Akshat Soni
 
-### 🚀 B.Tech IT Student | Machine Learning Enthusiast | Agentic AI Developer | Web Developer
+### 🚀 Machine Learning Enthusiast • Agentic AI Developer • Full Stack Web Developer
 
-Passionate about building intelligent applications using AI, Machine Learning, and modern web technologies. I enjoy creating real-world projects that combine software engineering, automation, and data-driven decision making.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Machine+Learning+%7C+Agentic+AI+%7C+Full+Stack;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
----
+<p>
+  <img src="https://komarev.com/ghpvc/?username=akshatsoni27&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/akshatsoni27?style=for-the-badge&color=6C63FF"/>
+  <img src="https://img.shields.io/github/stars/akshatsoni27?affiliations=OWNER&style=for-the-badge&color=6C63FF"/>
+</p>
 
-## 🧠 Currently Learning
-
-* Machine Learning
-* Agentic AI Systems
-* LangChain & LangGraph
-* System Design
-* Data Structures & Algorithms
-* CI/CD & DevOps
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Who Am I?
+
+- 🎓 B.Tech Information Technology Student
+- 🤖 Passionate about Machine Learning & AI
+- 🧠 Building Agentic AI Applications
+- 🌐 Full Stack Web Developer
+- 💡 Love solving real-world problems with technology
+- ⚡ Always exploring new tools and frameworks
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Agentic AI
+- LangChain
+- LangGraph
+- RAG Systems
+- System Design
+- CI/CD
+- Docker
+- DevOps
+- Data Structures & Algorithms
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-* Python
-* JavaScript
-* C++
-* SQL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql"/>
+</p>
 
-### AI & ML
+### AI / Machine Learning
 
-* Scikit-Learn
-* Pandas
-* NumPy
-* Matplotlib
-* Agno
-* LangChain
-* LangGraph
-* Groq API
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agno-AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+
+</p>
 
 ### Web Development
 
-* React.js
-* Vite
-* Tailwind CSS
-* Node.js
-* Express.js
-* MongoDB
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb"/>
+</p>
 
 ### Tools
 
-* Git & GitHub
-* Postman
-* VS Code
-* Netlify
-* Vercel
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 💹 AI Financial Research Agent
+<table>
 
-Agentic AI application built using Agno, Groq, and Yahoo Finance for real-time stock analysis and financial insights.
+<tr>
 
-### 💳 Credit Card Fraud Detection System
+<td width="50%">
 
-Machine Learning project using classification algorithms to identify fraudulent transactions.
+## 💹 AI Financial Research Agent
 
-### 🎉 Techotsav Website
+📈 Multi-Agent AI application built using
 
-Developed and maintained the official website for a national-level technical festival.
+- Agno
+- Groq API
+- Yahoo Finance
+- Real-time Financial Analysis
 
-### 🎬 Netflix Clone
+</td>
 
-Responsive Netflix-inspired frontend built using React and modern UI practices.
+<td width="50%">
+
+## 💳 Credit Card Fraud Detection
+
+Machine Learning project featuring
+
+- Data Analysis
+- Classification Models
+- Fraud Detection
+- Performance Evaluation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🎉 Techotsav Website
+
+Official website for a National-Level Technical Festival.
+
+Built using
+
+- React
+- Tailwind CSS
+- Responsive Design
+
+</td>
+
+<td>
+
+## 🎬 Netflix Clone
+
+Modern Netflix-inspired UI built with
+
+- React
+- Vite
+- Responsive Design
+- Modern UI Components
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📈 Current Goals
+# 📈 2026 Goals
 
-* Master Machine Learning
-* Build Production-Ready AI Agents
-* Solve 500+ DSA Problems
-* Learn System Design
-* Contribute to Open Source
-* Secure an AI/ML Internship
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎯 Learning Goals
+
+- ✅ Master Machine Learning
+- ✅ Learn Deep Learning
+- ✅ Production AI Agents
+- ✅ LangGraph
+- ✅ System Design
+
+</td>
+
+<td width="50%">
+
+### 🚀 Career Goals
+
+- 🎯 AI/ML Internship
+- 🎯 Open Source Contributions
+- 🎯 500+ DSA Problems
+- 🎯 Build SaaS AI Products
+- 🎯 Publish Technical Blogs
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🏆 Leadership & Activities
+# 🏆 Leadership & Activities
 
-* Chair, IEEE Computational Intelligence Society (IEEE CIS)
-* Organized technical workshops and events
-* Active participant in hackathons and AI communities
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 👨‍💼 Leadership
+
+🏆 Chair — IEEE Computational Intelligence Society
+
+🎯 Organized Technical Workshops
+
+🤝 Managed Student Activities
+
+💡 Led Technical Events
+
+</td>
+
+<td width="50%">
+
+### 🌟 Community
+
+🚀 Hackathons
+
+💻 Open Source
+
+🤖 AI Communities
+
+📚 Continuous Learning
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-* Portfolio: https://akshatsonifolio.netlify.app
-* LinkedIn: https://www.linkedin.com/in/akshat-soni-/*
-*  Email: [your-email@example.com](mailto:akshatsoni0427@gmail.com)
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshatsoni27&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=akshatsoni27&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### ⚡ Fun Fact
+# 🏅 GitHub Trophies
 
-I love turning ideas into real-world AI applications and continuously exploring the future of intelligent systems.
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshatsoni27&color=blue)
+<img src="https://github-profile-trophy.vercel.app/?username=akshatsoni27&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-![GitHub followers](https://img.shields.io/github/followers/akshatsoni27?label=Followers&style=social)
+</div>
 
-![GitHub User's stars](https://img.shields.io/github/stars/akshatsoni27?affiliations=OWNER&style=social)
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://akshatsonifolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshat-soni-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+*"The best way to predict the future is to build it."*
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
