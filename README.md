@@ -1,15 +1,33 @@
 <div align="center">
 
-# Hi 👋, I'm Akshat Soni
+# Hey 👋, I'm Akshat Soni
 
-### 🚀 Machine Learning Enthusiast • Agentic AI Developer • Full Stack Web Developer
+### AI/ML Engineer • Agentic AI Developer • Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Machine+Learning+%7C+Agentic+AI+%7C+Full+Stack;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+Building intelligent systems that combine **LLMs, agents, RAG, tools, and real-world data**.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Machine+Learning+%7C+Full+Stack;Turning+Ideas+Into+Working+Products+🚀" />
+
+<br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=akshatsoni27&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/akshatsoni27?style=for-the-badge&color=6C63FF"/>
-  <img src="https://img.shields.io/github/stars/akshatsoni27?affiliations=OWNER&style=for-the-badge&color=6C63FF"/>
+  <img src="https://komarev.com/ghpvc/?username=akshatsoni27&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/akshatsoni27?style=for-the-badge&color=8B5CF6"/>
+  <img src="https://img.shields.io/github/stars/akshatsoni27?affiliations=OWNER&style=for-the-badge&color=8B5CF6"/>
+</p>
+
+<p>
+  <a href="https://akshatsonifolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/akshat-soni-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/akshatsoni27">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -18,283 +36,99 @@
 
 # 👨‍💻 About Me
 
-<table>
-<tr>
+I'm an **Information Technology student and AI-focused developer** interested in building practical software around **Machine Learning, LLMs, Agentic AI, and intelligent automation**.
 
-<td width="50%" valign="top">
+My current focus is moving beyond simple chatbot applications toward systems that can:
 
-### 🚀 Who Am I?
+- 🔎 Search and retrieve information
+- 🧠 Reason over multiple sources
+- 🔧 Use external tools and APIs
+- 📚 Retrieve information from documents
+- 🤖 Coordinate multiple AI agents
+- ⚙️ Automate multi-step workflows
+- 📊 Produce structured and useful outputs
 
-- 🎓 B.Tech Information Technology Student
-- 🤖 Passionate about Machine Learning & AI
-- 🧠 Building Agentic AI Applications
-- 🌐 Full Stack Web Developer
-- 💡 Love solving real-world problems with technology
-- ⚡ Always exploring new tools and frameworks
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Agentic AI
-- LangChain
-- LangGraph
-- RAG Systems
-- System Design
-- CI/CD
-- Docker
-- DevOps
-- Data Structures & Algorithms
-
-</td>
-
-</tr>
-</table>
+I also have a background in **Full Stack Web Development**, which helps me turn AI prototypes into usable applications.
 
 ---
 
-# 💻 Tech Stack
+# 🧠 What I'm Working With
 
-### Languages
+### 🤖 AI / Generative AI
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql"/>
-</p>
+- Large Language Models
+- Agentic AI
+- Multi-Agent Systems
+- RAG
+- AI Agents
+- Tool Calling
+- Prompt Engineering
+- LLM Workflows
+- AI Evaluation
 
-### AI / Machine Learning
+### 🔗 AI Frameworks
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
+- LangChain
+- LangGraph
+- Agno
+- Groq
+- Mistral
+- Google Gemini
+- ChromaDB
 
-<p align="center">
+### 📊 Machine Learning
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agno-AI-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Classification
+- Regression
+- Feature Engineering
+- Model Evaluation
 
-</p>
+### 🌐 Full Stack Development
 
-### Web Development
+- React
+- Vite
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb"/>
-</p>
+### 🛠️ Tools & Platforms
 
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify"/>
-</p>
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
+- Vercel
+- Netlify
+- Streamlit
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 💹 AI Financial Research Agent
-
-📈 Multi-Agent AI application built using
-
-- Agno
-- Groq API
-- Yahoo Finance
-- Real-time Financial Analysis
-
-</td>
-
-<td width="50%">
-
-## 💳 Credit Card Fraud Detection
-
-Machine Learning project featuring
-
-- Data Analysis
-- Classification Models
-- Fraud Detection
-- Performance Evaluation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🎉 Techotsav Website
-
-Official website for a National-Level Technical Festival.
-
-Built using
-
-- React
-- Tailwind CSS
-- Responsive Design
-
-</td>
-
-<td>
-
-## 🎬 Netflix Clone
-
-Modern Netflix-inspired UI built with
-
-- React
-- Vite
-- Responsive Design
-- Modern UI Components
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 2026 Goals
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🎯 Learning Goals
-
-- ✅ Master Machine Learning
-- ✅ Learn Deep Learning
-- ✅ Production AI Agents
-- ✅ LangGraph
-- ✅ System Design
-
-</td>
-
-<td width="50%">
-
-### 🚀 Career Goals
-
-- 🎯 AI/ML Internship
-- 🎯 Open Source Contributions
-- 🎯 500+ DSA Problems
-- 🎯 Build SaaS AI Products
-- 🎯 Publish Technical Blogs
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏆 Leadership & Activities
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 👨‍💼 Leadership
-
-🏆 Chair — IEEE Computational Intelligence Society
-
-🎯 Organized Technical Workshops
-
-🤝 Managed Student Activities
-
-💡 Led Technical Events
-
-</td>
-
-<td width="50%">
-
-### 🌟 Community
-
-🚀 Hackathons
-
-💻 Open Source
-
-🤖 AI Communities
-
-📚 Continuous Learning
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshatsoni27&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=akshatsoni27&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsoni27&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshatsoni27&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://akshatsonifolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akshat-soni-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Quote
-
-*"The best way to predict the future is to build it."*
-
-⭐ If you like my work, consider starring my repositories!
-
-</div>
+## 🧠 Multi-Agent Research Desk
+
+A multi-agent research system that transforms an open-ended question into a structured research brief.
+
+### Pipeline
+
+```text
+User Question
+      ↓
+Search Agent
+      ↓
+Reader Agent
+      ↓
+Writer Agent
+      ↓
+Critic Agent
+      ↓
+Research Brief
