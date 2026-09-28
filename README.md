@@ -55,25 +55,17 @@ My full-stack background allows me to take these systems from **AI prototype →
 
 # 🧠 Core Expertise
 
-| 🤖 **AI & Agentic Systems**        | 🔗 **AI Frameworks & LLMs**  |
-| ---------------------------------- | ---------------------------- |
-| Agentic AI • Multi-Agent Systems   | LangGraph • LangChain • Agno |
-| RAG • AI Agents • Tool Calling     | Groq • Mistral • Gemini      |
-| Prompt Engineering • AI Workflows  | ChromaDB • Hugging Face      |
-| AI Evaluation • Autonomous Systems | Sentence Transformers        |
+| 🤖 AI / Agentic | 📚 RAG / Data | 🌐 Development | 🛠️ Tools |
+| --------------- | ------------- | -------------- | --------- |
+| Agentic AI      | RAG           | React          | Git       |
+| Multi-Agent     | ChromaDB      | Vite           | GitHub    |
+| LangGraph       | Hugging Face  | TypeScript     | Docker    |
+| LangChain       | Vector Search | Node.js        | Postman   |
+| Agno            | Embeddings    | Express.js     | Streamlit |
+| Groq            | Document AI   | FastAPI        | Vercel    |
+| Mistral         | AI Research   | MongoDB        | Render    |
+| Tool Calling    |               | Tailwind CSS   |           |
 
-| 📊 **Machine Learning**                | 🌐 **Full Stack Development** |
-| -------------------------------------- | ----------------------------- |
-| Python • Scikit-Learn                  | React • Vite • TypeScript     |
-| Pandas • NumPy • Matplotlib            | JavaScript • Tailwind CSS     |
-| Classification • Regression            | Node.js • Express.js          |
-| Feature Engineering • Model Evaluation | FastAPI • REST APIs • MongoDB |
-
-| 🛠️ **Tools & Platforms** | 🚀 **Deployment & Infrastructure** |
-| ------------------------- | ---------------------------------- |
-| Git • GitHub • VS Code    | Vercel • Netlify • Render          |
-| Docker • Postman          | Docker • REST APIs                 |
-| Streamlit                 | Cloud Deployment                   |
 
 # 🚀 Featured Projects
 
